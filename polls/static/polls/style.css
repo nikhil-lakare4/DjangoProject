@@ -1,0 +1,13 @@
+li a {
+    color: green;
+}
+
+body {
+    margin: 10%;
+    text-align: center;
+    background: white url("images/background.gif") no-repeat fixed;
+    /* -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover; */
+    background-size: cover;
+}
