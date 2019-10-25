@@ -1,13 +1,17 @@
-li a {
-    color: green;
+body {
+    color: white;
+    margin: 0%;
+    text-align: center;
+    background: #424242;
+    background-size: cover;
 }
 
-body {
-    margin: 10%;
-    text-align: center;
-    background: white url("images/background.gif") no-repeat fixed;
-    /* -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover; */
-    background-size: cover;
+a {
+    color: white;
+}
+
+.head{
+    padding: 5%;
+    color: white;
+    background: #212121;
 }
